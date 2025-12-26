@@ -1,0 +1,1 @@
+# No external dependencies - just Python's standard library and a leap of faith
